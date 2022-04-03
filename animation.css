@@ -1,0 +1,53 @@
+@keyframes move {
+    from {
+        transform: scale(0.5);
+        /* width: 234px;
+        height: 113px; */
+    }
+    to {
+        transform: scale(1);
+        /* width: 434px;
+        height: 214px; */
+    }
+}
+
+@keyframes move {
+    0% {
+        transform: scale(0.5);
+        /* width: 234px;
+        height: 113px; */
+    }
+    100% {
+        transform: scale(1);
+        /* width: 434px;
+        height: 214px; */
+    }
+    50% {
+        transform: scale(0.5);
+        /* width: 434px;
+        height: 214px; */
+    }
+    0% {
+        transform: scale(1);
+        /* width: 434px;
+        height: 214px; */
+    }
+}
+
+@keyframes move {
+    0% {
+        transform: scale(0.5);
+        /* width: 234px;
+        height: 113px; */
+    }
+    50% {
+        transform: scale(1);
+        /* width: 434px;
+        height: 214px; */
+    }
+    100% {
+        transform: scale(0.5);
+        /* width: 434px;
+        height: 214px; */
+    }
+}
